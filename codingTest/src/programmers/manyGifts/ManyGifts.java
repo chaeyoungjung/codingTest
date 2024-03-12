@@ -1,6 +1,5 @@
-package manyGifts;
+package programmers.manyGifts;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 
