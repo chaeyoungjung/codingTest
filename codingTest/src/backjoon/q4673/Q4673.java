@@ -5,10 +5,10 @@ import java.util.HashSet;
 public class Q4673 {
 
 	public static void main(String[] args) {
-		// 1Àº 2ÀÇ »ý¼ºÀÚ 1(ÀÚ±âÀÚ½Å)+1(ÀÚ¸´¼ö)
-		// 2´Â 4ÀÇ »ý¼ºÀÚ 2(ÀÚ±âÀÚ½Å)+2(ÀÚ¸´¼ö)
+		// 1ï¿½ï¿½ 2ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 1(ï¿½Ú±ï¿½ï¿½Ú½ï¿½)+1(ï¿½Ú¸ï¿½ï¿½ï¿½)
+		// 2ï¿½ï¿½ 4ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 2(ï¿½Ú±ï¿½ï¿½Ú½ï¿½)+2(ï¿½Ú¸ï¿½ï¿½ï¿½)
 		
-		//¼¿ÇÁ ³Ñ¹ö°¡ ¾Æ´Ñ °ª °¡Á®¿À±â
+		//ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ¹ï¿½ï¿½ï¿½ ï¿½Æ´ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //		Long beforeTime = System.currentTimeMillis();
 		HashSet<Integer> numSet = new HashSet<Integer>();
 		HashSet<Integer> selfNumSet = new HashSet<Integer>();
@@ -35,7 +35,7 @@ public class Q4673 {
 		}
 		
 //		Long afterTime = System.currentTimeMillis();
-//		System.out.println("ÀÛ¾÷½Ã°£ : "+(afterTime-beforeTime)/1000.0+"ÃÊ"); //´ÜÀ§°¡ ¹Ð¸®¼¼ÄÁµå
+//		System.out.println("ï¿½Û¾ï¿½ï¿½Ã°ï¿½ : "+(afterTime-beforeTime)/1000.0+"ï¿½ï¿½"); //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		
 	}
 
